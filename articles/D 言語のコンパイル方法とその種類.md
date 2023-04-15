@@ -4,7 +4,7 @@ emoji: "🌊"
 type: "tech"
 topics:
   - "dlang"
-published: true
+published: false
 published_at: "2022-11-07 07:28"
 —
 

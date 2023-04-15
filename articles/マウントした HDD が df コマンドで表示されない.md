@@ -5,7 +5,7 @@ type: "tech"
 topics:
   - "linux"
   - "centos"
-published: true
+published: false
 published_at: "2022-11-06 00:31"
 —
 
